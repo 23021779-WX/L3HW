@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     },
     header: {
         fontSize: 30,
-        fontWeight: 'bold',
+        fontWe7676ight: 'bold',
         textAlign: 'center',
         marginBottom: 20,
         color: '#007bff',
